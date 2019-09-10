@@ -5,4 +5,4 @@ Foram realizados testes de unidade e integração de caixa-preta de forma a grar
 # Implementação 
 O programa foi implementado em C++ por meio da Code::Blocks IDE, podendo ser compilado e executado em ambos windows e linux.
 # Interface
-Com o fim de facilitar a implementação de um esboço de um sistema mais complexo a navegação do usuário se dá por texto em um console.
+Com o fim de facilitar a implementação de um esboço de um sistema mais complexo, a navegação do usuário se dá por texto em um console.
