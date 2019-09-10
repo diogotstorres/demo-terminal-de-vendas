@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1568072244 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\item.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	"Item.h"
+	"Ingredient.h"
+
+1567993230 c:\users\diogo torres\documents\6-git\666\old\demo-post\item.h
+	<vector>
+	"Ingredient.h"
+
+1568064150 c:\users\diogo torres\documents\6-git\666\old\demo-post\product.h
+	"Item.h"
+	"Ingredient.h"
+
+1568072240 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\product.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Item.h"
+	"Product.h"
+	"Ingredient.h"
+
+1568064164 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\main.cpp
+	<iostream>
+	<locale>
+	<list>
+	"Interface.h"
+
+1568081023 c:\users\diogo torres\documents\6-git\666\old\demo-post\custumer.h
+	<vector>
+	"Ingredient.h"
+
+1568063633 c:\users\diogo torres\documents\6-git\666\old\demo-post\store.h
+	"Product.h"
+	"Production.h"
+
+1567993726 c:\users\diogo torres\documents\6-git\666\old\demo-post\ingredient.h
+
+1568072270 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\custumer.cpp
+	<cstdlib>
+	<iostream>
+	"Custumer.h"
+	"Item.h"
+
+1568072255 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\ingredient.cpp
+	<cstdlib>
+	<iostream>
+	"Ingredient.h"
+
+1568072218 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\store.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	"Store.h"
+	"Product.h"
+	"Production.h"
+
+1568080516 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\interface.cpp
+	<iostream>
+	<vector>
+	"Ingredient.h"
+	"Interface.h"
+	"Item.h"
+	"Product.h"
+	"Production.h"
+
+1568067882 c:\users\diogo torres\documents\6-git\666\old\demo-post\interface.h
+	"Store.h"
+	"Custumer.h"
+	"Ingredient.h"
+	"Product.h"
+
+1568076595 source:c:\users\diogo torres\documents\6-git\666\old\demo-post\production.cpp
+	<cstdlib>
+	<iostream>
+	"Production.h"
+	"Item.h"
+
+1568076616 c:\users\diogo torres\documents\6-git\666\old\demo-post\production.h
+	<vector>
+	"Ingredient.h"
+
